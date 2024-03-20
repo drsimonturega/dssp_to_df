@@ -8,13 +8,10 @@ The imports is using a pandas ```pd.read_csv()``` command that does most of the 
 ```    header = None, usecols = col_lst, skipfooter = 1, engine='python')```
 
 The header titles for the columns or my interpretation of them are given as a list below,
+
 ```["chain", "res_num", "AA", "ss", "kappa helix", "3-10 helix", "alpha helix", ```
-
 ```            "pi helix", "geometrical bend", "chirality_1", "chirality_2" "beta bridge label",```
-
 ```            "beta bridge label", "BP1", "BP2",  "ACC", "N-H-->O", "O-->H-N", "N-H-->O",```
-
-
 ```            "O-->H-N", "TCO", "KAPPA", "ALPHA", "PHI", "PSI", "X-CA", "Y-CA","Z-CA" ]```
 
 The dssp database is here, 
