@@ -4,8 +4,7 @@ This is a very short Python script that loads a *.cif file containing dssp data 
 
 The imports is using a pandas ```pd.read_csv()``` command that does most of the work, with the columns to import being selected with the list ```col_lst```;
 
-```df = pd.read_csv("5b04.cif", sep = " ", skiprows = 38428, skipinitialspace = True, 
-    header = None, usecols = col_lst, skipfooter = 1, engine='python')```
+```df = pd.read_csv("5b04.cif", sep = " ", skiprows = 38428, skipinitialspace = True, header = None, usecols = col_lst, skipfooter = 1, engine='python')```
 
 The header titles for the columns or my interpretation of them are given as a list below,
 
