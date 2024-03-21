@@ -17,4 +17,5 @@ The dssp database is here,
 The references for the DSSP database tools,
 
 1 W. Kabsch and C. Sander, Biopolymers, 1983, 22, 2577-2637 (DOI:10.1002/bip.360221211).
+
 2 R. P. Joosten, T. A. H. te Beek, E. Krieger, M. L. Hekkelman, R. W. W. Hooft, R. Schneider, C. Sander and G. Vriend, Nucleic Acids Res., 2011, 39, D411-D419 (DOI:10.1093/nar/gkq1105).
